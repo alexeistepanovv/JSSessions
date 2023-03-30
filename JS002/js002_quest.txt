@@ -1,0 +1,17 @@
+What are the eight data types in JavaScript?
+Which data type is NOT primitive?
+What is the relationship between null and undefined?
+What is the difference between single, double, and backtick quotes for strings?
+What is the term for embedding variables/expressions in a string?
+Which type of quote lets you embed variables/expressions in a string?
+How do you embed variables/expressions in a string?
+How do you use escape characters in a string?
+What is the difference between the slice/substring/substr string methods?
+Three ways to concatenate strings?
+
+Sources:
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#single_quotes_vs._double_quotes - backticks, embeding
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String#escape_sequences () - escape expressions
+https://javascript.info/types#summary - datatypes
+https://javascript.info/types#the-null-value - null value
+https://www.w3schools.com/js/js_string_methods.asp - string methods
